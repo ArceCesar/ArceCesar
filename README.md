@@ -61,7 +61,7 @@
  
 </p>
 
-## <p align="justify"> >> Transformez vos données brutes avec la Science des données en Intelligence artificielle (IA)
+## <p align="justify"> >> 📊 Transformer les données historiques pour prédire l'avenir en utilisant des algorithmes pour trouver des motifs et des relations.
 
 </p>
 
