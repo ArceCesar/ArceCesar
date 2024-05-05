@@ -12,7 +12,7 @@
 # Salut !!! 👋
 -->
 
-## <p align="justify"> 🚀 Je peux vous démontrer comment la science des données nous permet d'utiliser les données pour prendre des décisions intelligentes et éclairées!
+## <p align="justify"> 🚀 La science des données nous permet d'utiliser les données pour prendre des décisions intelligentes et éclairées!
 
 </p>
 
