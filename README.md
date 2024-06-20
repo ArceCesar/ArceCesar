@@ -65,7 +65,7 @@
 
 </p>
 
-<img align="right" src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ" width="500"/>
+<img align="right" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
 
 <!--
 <img align="right" src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="500"/>
