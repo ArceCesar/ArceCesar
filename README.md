@@ -65,12 +65,13 @@
 
 </p>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN4YjVrZ241dWJwMmt5NXBtNjdsbDQ1dmY0eWs2YnN0NHV1YWUwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
-
-<img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJsejUwY3dhOWZ5azNraTh5enh3amZsaGtoaWZvcGdkZW5ybnI0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif" width="500"/>
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJsejUwY3dhOWZ5azNraTh5enh3amZsaGtoaWZvcGdkZW5ybnI0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif" width="500"/>
 
 <!--
 <img align="right" src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="500"/>
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN4YjVrZ241dWJwMmt5NXBtNjdsbDQ1dmY0eWs2YnN0NHV1YWUwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+
 <p style='text-align: justify;'>
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>
 <img src="https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif" width="500" style="margin-left: 20px; margin-bottom: 20px;"/>
