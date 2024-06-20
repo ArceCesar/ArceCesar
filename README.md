@@ -65,7 +65,7 @@
 
 </p>
 
-<img align="right" src="<iframe src="https://giphy.com/embed/4JVTF9zR9BicshFAb7" width="480" height="345" frameBorder="0" class="giphy-embed"/>
+<img align="right" src="https://giphy.com/embed/4JVTF9zR9BicshFAb7" width="480" height="345" frameBorder="0" class="giphy-embed"/>
 
 <!--
 <img align="right" src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="500"/>
