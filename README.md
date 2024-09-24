@@ -61,7 +61,7 @@
  
 </p>
 
-## <p align="justify"> >> 📊 Transformer les données historiques pour prédire l'avenir en utilisant des algorithmes pour trouver des motifs et des relations.
+## <p align="justify"> >> 📊 Transformer des données historiques pour prédire l'avenir à l'aide d'algorithmes permettant de découvrir des motifs et des relations n'est que le début. Le véritable impact provient de la présentation de ces informations grâce à une conception UX/UI fluide, rendant les données complexes compréhensibles et exploitables pour tous les utilisateurs.
 
 </p>
 
