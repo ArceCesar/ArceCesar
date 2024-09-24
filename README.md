@@ -12,11 +12,7 @@
 # Salut !!! 👋
 -->
 
-## <p align="justify"> 🚀 La science des données nous permet d'utiliser les données pour prendre des décisions intelligentes et éclairées!
-
-</p>
-
-## <p align="justify"> 🔓 Je peux vous montrer comment libérer le véritable potentiel de vos données!
+## <p align="justify"> 🚀 La science des données nous permet d'utiliser les données pour prendre des décisions intelligentes et éclairées. Je suis ici pour vous aider à transformer ces données en insights exploitables, afin de libérer tout leur potentiel et propulser la croissance de votre entreprise! 🔓
 
 </p>
 
