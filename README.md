@@ -54,7 +54,11 @@
 
 
 ### <p align="justify">  Bienvenue dans mon portfolio en science des données. Ma passion est de vous aider à accroître votre compétitivité, augmenter vos ventes et optimiser votre chiffre d'affaires en transformant les données brutes en informations précieuses, afin de prendre de meilleures décisions ! J'utilise des technologies de pointe, telles que l'apprentissage automatique (Machine Learning) et l'apprentissage profond (Deep Learning), en utilisant les langages Python et R. 👍
- 
+
+</p>
+
+### <p align="justify"> ![odoo_certified_partner](https://github.com/user-attachments/assets/81174f85-ec49-45a5-8f5d-cc12794ed5e3)
+
 </p>
 
 ## <p align="justify"> >> 📊 Transformer des données historiques pour prédire l'avenir à l'aide d'algorithmes permettant de découvrir des motifs et des relations n'est que le début. Le véritable impact provient de la présentation de ces informations grâce à une conception UX/UI fluide, rendant les données complexes compréhensibles et exploitables pour tous les utilisateurs.
