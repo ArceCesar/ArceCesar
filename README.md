@@ -12,7 +12,7 @@
 # Salut !!! 👋
 -->
 
-## <p align="justify"> 🚀 La science des données nous permet d'utiliser les données pour prendre des décisions intelligentes et éclairées. Je suis ici pour vous aider à transformer ces données en insights exploitables, afin de libérer tout leur potentiel et propulser la croissance de votre entreprise! 🔓
+## <p align="justify"> 🚀 Je fais partie d'un cabinet de conseil spécialisé dans l'implémentation d'ERPs, l'intelligence d'affaires et la science des données. En tant que partenaire Odoo, nous aidons les entreprises à optimiser leurs opérations et à améliorer leur prise de décision grâce à des solutions technologiques personnalisées. Notre expertise couvre la personnalisation de l'ERP, la science des données et l'apprentissage automatique, la veille économique, l'analyse de données, l'optimisation des processus d'affaires, la gestion des bases de données et la planification des stocks. Nous nous engageons à soutenir les organisations avec des solutions innovantes qui favorisent l’efficacité et la croissance durable de votre entreprise! 🔓
 
 </p>
 
