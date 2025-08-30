@@ -12,7 +12,16 @@
 # Salut !!! 👋
 -->
 
-## <p align="justify"> 🚀 Je fais partie d'un cabinet de conseil spécialisé dans l'implémentation d'ERPs, l'intelligence d'affaires et la science des données. En tant que partenaire Odoo, nous aidons les entreprises à optimiser leurs opérations et à améliorer leur prise de décision grâce à des solutions technologiques personnalisées. Notre expertise couvre la personnalisation de l'ERP, la science des données et l'apprentissage automatique, l'analyse des données, l'optimisation des processus d'affaires, la gestion des bases de données et la planification des inventaires. Nous nous engageons à soutenir les organisations avec des solutions innovantes qui favorisent l’efficacité et la croissance durable de votre entreprise! 🔓
+## <p align="justify"> 🚀 Partenaire Odoo & Consultant en solutions de données  
+
+</p>
+
+### <p align="justify"> Nous aidons les entreprises à optimiser leurs opérations grâce à des implantations Odoo ERP sur mesure, à l’intelligence d’affaires et à la science des données — libérant ainsi productivité, clarté et succès durable. 🔓  
+### <p align="justify"> 🔑 De l’optimisation des processus à la modélisation prédictive, nos solutions favorisent l’agilité, l’innovation et des résultats mesurables.  
+
+</p>
+
+### <p align="justify"> 💡 Notre mission : transformer la complexité en clarté grâce à des solutions personnalisées qui stimulent la résilience, l’évolutivité et une croissance durable.  
 
 </p>
 
