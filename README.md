@@ -16,8 +16,8 @@
 
 </p>
 
-### <p align="justify"> Nous aidons les entreprises à optimiser leurs opérations grâce à des implantations Odoo ERP sur mesure, à l’intelligence d’affaires et à la science des données — libérant ainsi productivité, clarté et succès durable. 🔓  
-### <p align="justify"> 🔑 De l’optimisation des processus à la modélisation prédictive, nos solutions favorisent l’agilité, l’innovation et des résultats mesurables.  
+### <p align="justify"> Nous aidons les entreprises à réussir leur **implantation Odoo ERP, transformation numérique, intelligence d’affaires et science des données** — en libérant productivité, clarté et succès durable. 🔓  
+### <p align="justify"> 🔑 De **l’analyse et la visualisation des données** à **l’apprentissage automatique (Machine Learning) et l’IA**, nos solutions favorisent l’agilité, l’innovation et des résultats mesurables.  
 
 </p>
 
