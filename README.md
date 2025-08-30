@@ -93,20 +93,27 @@
 <p style="text-align: justify">
 -->
     
-### Mes spécialités : 
+### Mes spécialités :  
 
-<p align="justify"> 
-🚀 Scientifique des Données - En tant que Data Scientist spécialisé en Intelligence Artificielle, je mets en œuvre des modèles de Machine Learning et de Deep Learning pour extraire des connaissances précieuses à partir des données. J'utilise des algorithmes avancés et des techniques de modélisation pour résoudre des problèmes complexes et faire des prédictions précises, optimisent les processus et permettent l'automatisation intelligente des tâches. Je suis passionné par l'exploration de nouvelles méthodes et technologies de l'IA pour résoudre des défis réels et contribuer à l'innovation dans divers domaines.
+<p align="justify">  
+🚀 **Science des données & IA**<br/>  
+* Concevoir et déployer des modèles d’apprentissage automatique (Machine Learning) et d’apprentissage profond (Deep Learning) pour extraire des connaissances et automatiser des tâches.<br/>  
+* Appliquer des algorithmes avancés pour résoudre des problèmes complexes et fournir des prédictions précises.<br/>  
+* Passionné par l’exploration de nouvelles méthodes d’IA pour relever des défis concrets et contribuer à l’innovation.  
 
-</p>
+</p>  
+<p align="justify">  
+📈 **Intelligence d’affaires (BI – Analytique descriptive)**<br/>  
+* Transformer des données brutes en tableaux de bord et rapports intuitifs qui génèrent de la valeur d’affaires.<br/>  
+* Aider les organisations à améliorer leur efficacité, suivre leurs indicateurs de performance (KPI) et soutenir une meilleure prise de décision.<br/>  
+* Identifier les fuites de revenus et mettre en lumière des opportunités d’économies ou d’augmentation des profits.  
 
-<p align="justify"> 
-📈 Business Intelligence - BI (axé sur l'analyse descriptive), Je transforme les données en informations à valeur commerciale, améliorant ainsi l'efficacité opérationnelle et aidant les entreprises à accroître leur productivité. Je génère des rapports intuitifs et lisibles contenant des données pertinentes et exploitables. J'identifie les tendances pour soutenir la prise de décision, moderniser les processus et améliorer les résultats financiers.
-
-</p>
-
-<p align="justify"> 
-📊 Business Analytics - BA (axé sur l'analyse prédictive), En tant que spécialiste en BI, j'utilise les données pour prédire les tendances et les résultats. J'effectue l'exploration des données, l'analyse statistique et quantitative, la modélisation prédictive pour prendre des décisions éclairées et apporter des changements anticipés. Je résous les problèmes avant qu'ils ne surviennent.
+</p>  
+<p align="justify">  
+📊 **Analytique d’affaires (BA – Analytique prédictive)**<br/>  
+* Exploiter l’exploration de données, les statistiques et la modélisation prédictive pour anticiper les résultats futurs.<br/>  
+* Fournir des informations qui permettent aux dirigeants d’agir avant que les problèmes ne surviennent.<br/>  
+* Soutenir des stratégies proactives de croissance, de gestion des risques et d’innovation.  
 
 </p>
 
