@@ -117,9 +117,14 @@
 
 </p>
 
-### 👨‍💻 Mon parcours :
+### 👨‍💻 Mon parcours :  
+
 <p align="justify">  
-En plus de mes compétences techniques, je suis titulaire d'un MBA pour cadres (EMBA), de deux baccalauréats en Administration et Comptabilité (CPA, CMA), d'une spécialisation en Science des Données de l'Université Johns Hopkins, ainsi que d'un certificat professionnel en Analyse de Données de Google, entre autres.
+Au-delà de mon expertise technique, je possède une solide formation académique et des titres professionnels reconnus :<br/>  
+🎓 MBA exécutif (EMBA)<br/>  
+🎓 Double baccalauréat en gestion et en comptabilité (CPA, CMA)<br/>  
+📊 Spécialisation en science des données – Johns Hopkins University<br/>  
+📈 Certificat professionnel Google en analytique des données  
 
 </p>
 
