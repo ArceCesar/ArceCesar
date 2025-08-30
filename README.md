@@ -122,7 +122,7 @@
 <p align="justify">  
 Au-delà de mon expertise technique, je possède une solide formation académique et des titres professionnels reconnus :<br/>  
 🎓 MBA exécutif (EMBA)<br/>  
-🎓 Double baccalauréat en gestion et en comptabilité (CPA, CMA)<br/>  
+🎓 Double baccalauréat en administration et en comptabilité (CPA, CMA)<br/>  
 📊 Spécialisation en science des données – Johns Hopkins University<br/>  
 📈 Certificat professionnel Google en analytique des données  
 
