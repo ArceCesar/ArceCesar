@@ -63,7 +63,10 @@
 ![Banner](./banner.png)
 
 
-### <p align="justify">  Bienvenue dans mon portfolio en science des données. Ma passion est de vous aider à accroître votre compétitivité, augmenter vos ventes et optimiser votre chiffre d'affaires en transformant les données brutes en informations précieuses, afin de prendre de meilleures décisions ! J'utilise des technologies de pointe, telles que l'apprentissage automatique (Machine Learning) et l'apprentissage profond (Deep Learning), en utilisant les langages Python et R. 👍
+### <p align="justify"> 🎯 Bienvenue dans mon portfolio en science des données.  
+### <p align="justify"> Ma passion est d’aider les entreprises à accroître leur compétitivité, stimuler leur croissance et transformer leurs résultats en convertissant les données brutes en informations exploitables.  
+
+### <p align="justify"> En utilisant des technologies de pointe — apprentissage automatique (Machine Learning), apprentissage profond (Deep Learning), SQL, dbt et automatisation des processus robotiques (UiPath, KNIME, etc.) — je conçois des solutions qui rendent les données complexes simples, pertinentes et prêtes à soutenir la prise de décision. 👍  
 
 </p>
 
